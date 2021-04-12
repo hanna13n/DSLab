@@ -13,4 +13,4 @@ Programming in C 2.0
 2.3 [Hash-table-Separate Chaining-Lexicographical Order](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_3.c)  
 2.5 [BST-Paranthesis Rep-Predecessor-Successor-Inorder-kSmallest-kLargest-(without parent node)](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_5.c)   
 2.6 [BST-Max in path from a to b](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_6.c)  
-2.7 [BST-Balanced tree Insertion(O(nlogn)) from sorted list-Level Wise Sum](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_6.c) 
+2.7 [BST-Balanced tree Insertion(O(nlogn)) from sorted list-Level Wise Sum](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_7.c) 
