@@ -14,3 +14,9 @@ Programming in C 2.0
 2.5 [BST-Paranthesis Rep-Predecessor-Successor-Inorder-kSmallest-kLargest-(without parent node)](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_5.c)   
 2.6 [BST-Max in path from a to b](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_6.c)  
 2.7 [BST-Balanced tree Insertion(O(nlogn)) from sorted list-Level Wise Sum](https://github.com/hanna13n/DSLab/blob/master/ASSG2_B190420CS_HANNA_7.c) 
+  
+3.1 [AVLTree-Insert-Search-Delete-IsAVL-Rotations-Paranthesis print](https://github.com/hanna13n/DSLab/blob/master/ASSG3_B190420CS_HANNA_1.c)  
+3.2 [AVLTree-Sorting-O(nlogm)](https://github.com/hanna13n/DSLab/blob/master/ASSG3_B190420CS_HANNA_2.c)  
+3.3 [RBTree-Insert-Paranthesis Print](https://github.com/hanna13n/DSLab/blob/master/ASSG3_B190420CS_HANNA_3.c)  
+3.4 [Binomial Heap-Insert-Delete-ExtractMin-Union](https://github.com/hanna13n/DSLab/blob/master/ASSG3_B190420CS_HANNA_4.c)  
+
