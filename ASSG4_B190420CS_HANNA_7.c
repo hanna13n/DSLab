@@ -1,12 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    a.  with neither ranked union nor path compression applied.
+    b.  with only ranked union applied.
+    c.  with only path compression applied.
+    d.  with both ranked union and path compression applied.
+*/
+
 typedef struct node
 {
     int key;
     int rank;
     struct node *parent;
 } node;
+
 node *a[10001] = {NULL}, *b[10001] = {NULL}, *c[10001] = {NULL}, *d[10001] = {NULL};
 int sa = 0, sb = 0, sc = 0, sd = 0;
 
